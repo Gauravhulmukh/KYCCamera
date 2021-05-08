@@ -1,5 +1,5 @@
 ## KYCCamera
-1 Introduction
+##1 Introduction
 Some time ago, a custom camera was implemented at the request of the company, which required autofocus and irregular image cropping functions. In fact, these two functions are the main difficulty. After searching on Google, it was found that there were no ready-made wheels. Finally, through various search materials, I encapsulated one by myself, and the renderings are as follows:
 
 Android Custom KYC Camera
