@@ -6,7 +6,7 @@ Android Custom KYC Camera
 [![](https://img.shields.io/badge/License-Apache--2.0-brightgreen.svg)](https://github.com/Gauravhulmukh/KYCCamera/blob/master/LICENSE)
 [![](https://img.shields.io/badge/Author-GauravHulmukh-7AD6FD.svg)](https://github.com/Gauravhulmukh)
 
-## Design sketch
+
 ![](https://github.com/Gauravhulmukh/KYCCamera/blob/master/screenshots/screensho.jpg)
 ![](https://github.com/Gauravhulmukh/KYCCamera/blob/master/screenshots/screensho.jpg)
 
