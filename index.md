@@ -14,7 +14,7 @@ Some time ago, a custom camera was implemented at the request of the company, wh
 <div class="image-package">
 <div class="image-container" style="max-width: 700px; max-height: 604px;">
 <div class="image-container-fill" style="padding-bottom: 86.38%;"></div>
-<div class="image-view" data-width="1880" data-height="1624"><img data-original-src="//upload-images.jianshu.io/upload_images/5382223-8f96cd4a4b89e751.jpg" data-original-width="1880" data-original-height="1624" data-original-format="image/jpeg" data-original-filesize="822481"></div>
+<div class="image-view" data-width="1880" data-height="1624"><img data-original-src="https://github.com/Gauravhulmukh/KYCCamera/blob/master/screenshots/screenshot.jpg" data-original-width="1880" data-original-height="1624" data-original-format="image/jpeg" data-original-filesize="822481"></div>
 </div>
 
 # To Use
