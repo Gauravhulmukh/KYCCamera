@@ -14,14 +14,13 @@ Some time ago, a custom camera was implemented at the request of the company, wh
 2 Use
 Step 1. Add JitPack repository
 Add the JitPack repository to the project's build.gradle
-```java
-allprojects {
-		repositories {
-			...
-			maven { url 'https:\//jitpack.io' }
-		}
-	}
-```
+<pre><code>allprojects {
+    repositories {
+        ...
+        maven { url "https://jitpack.io" }
+    }
+}
+</code></pre>
 
 Step 2. Add dependencies
 Add dependencies to the modules that need to be used (see KYCCamera for the latest version )
