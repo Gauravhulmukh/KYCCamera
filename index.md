@@ -8,7 +8,7 @@
 Some time ago, a custom camera was implemented at the request of the company, which required autofocus and irregular image cropping functions. In fact, these two functions are the main difficulty. After searching on Google, it was found that there were no ready-made wheels. Finally, through various search materials, I encapsulated one by myself, and the renderings are as follows:
 
 ## Design sketch
-![](https://github.com/Gauravhulmukh/KYCCamera/blob/master/screenshots/screenshot.jpg)
+<img src=https://github.com/Gauravhulmukh/KYCCamera/blob/master/screenshots/screenshot.jpg" width="1000"/>
 ![](https://github.com/Gauravhulmukh/KYCCamera/blob/master/screenshots/screenshot2.jpg)
 
 <div class="image-package">
