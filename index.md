@@ -11,6 +11,30 @@ Some time ago, a custom camera was implemented at the request of the company, wh
 ![](https://github.com/Gauravhulmukh/KYCCamera/blob/master/screenshots/screenshot.jpg)
 ![](https://github.com/Gauravhulmukh/KYCCamera/blob/master/screenshots/screenshot2.jpg)
 
+2 Use
+Step 1. Add JitPack repository
+Add the JitPack repository to the project's build.gradle
+```java
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+
+Step 2. Add dependencies
+Add dependencies to the modules that need to be used (see KYCCamera for the latest version )
+```java
+dependencies {
+	        implementation 'com.github.Gauravhulmukh:KYCCamera:v1.1'
+	}
+```
+Or refer to the local lib
+```
+compile project(':KYCCamera')
+```
+
 You can use the [editor on GitHub](https://github.com/Gauravhulmukh/KYCCamera/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
