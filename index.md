@@ -18,6 +18,7 @@ Some time ago, a custom camera was implemented at the request of the company, wh
 </div>
 
 # To Use
+
 Step 1. Add JitPack repository
 Add the JitPack repository to the project's build.gradle
 <pre><code>allprojects {
@@ -30,48 +31,12 @@ Add the JitPack repository to the project's build.gradle
 
 Step 2. Add dependencies
 Add dependencies to the modules that need to be used (see KYCCamera for the latest version )
-```java
+<pre><code>
 dependencies {
 	        implementation 'com.github.Gauravhulmukh:KYCCamera:v1.1'
 	}
-```
+</code></pre>
 Or refer to the local lib
-```
+<pre><code>
 compile project(':KYCCamera')
-```
-
-You can use the [editor on GitHub](https://github.com/Gauravhulmukh/KYCCamera/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gauravhulmukh/KYCCamera/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</code></pre>
