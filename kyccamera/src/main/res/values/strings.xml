@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KYCCamera</string>
+    <string name="touch_to_focus">Please try to align the reference text with the corresponding position <br/> on the rectangular box and certificate when shooting.</string>
+    <string name="crop_fail">Cropping failed</string>
+    <string name="no_flash">The device does not support flash</string>
+</resources>

@@ -1,0 +1,3 @@
+include ':kyccamera'
+include ':app'
+rootProject.name = "KYCCameraexample"

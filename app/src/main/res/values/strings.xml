@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KYCCameraexample</string>
+    <string name="kyc_document">KYC Document</string>
+    <string name="ac">Aadhaar card</string>
+    <string name="pc">Pan card</string>
+    <string name="fac">Front of the Aadhaar Card</string>
+    <string name="bac">Back of the Aadhaar Card</string>
+    <string name="fpc">front of the PAN Card</string>
+</resources>
