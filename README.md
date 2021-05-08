@@ -7,8 +7,8 @@ Android Custom KYC Camera
 [![](https://img.shields.io/badge/Author-GauravHulmukh-7AD6FD.svg)](https://github.com/Gauravhulmukh)
 
 ## Design sketch
-![](https://github.com/Gauravhulmukh/KYCCamera/blob/master/screenshots/screenshot.jpg)
-![](https://github.com/Gauravhulmukh/KYCCamera/blob/master/screenshots/screenshot2.jpg)
+![](https://github.com/Gauravhulmukh/KYCCamera/blob/master/screenshots/screensho.jpg)
+![](https://github.com/Gauravhulmukh/KYCCamera/blob/master/screenshots/screensho.jpg)
 
 ## Features
 - Custom camera interface for Indian ID card (Aadhaar Card, Pan Card)
